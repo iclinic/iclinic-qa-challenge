@@ -20,7 +20,7 @@ Para realizar a automação, utilize o site oficial do iClinic: https://app.icli
 - Passo-a-passo de como rodar sua aplicação;
 - Commits semânticos;
 - Princípios SOLID;
-- Para os testes web, utilizar Selenium ou Cypress
+- Para os testes web, utilizar Selenium com Python, ou Cypress
 - Para os testes mobile, utilizar Appium
 
 ___
