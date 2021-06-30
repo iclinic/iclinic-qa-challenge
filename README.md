@@ -13,6 +13,7 @@ A missão é automatizar o principal fluxo de agendamento, para garantir que ele
 Vídeo demonstrativo do fluxo a ser automatizado: https://www.loom.com/share/d0b7fc25c361427f9d8ab9b0cc4eed1b
 
 Para realizar a automação, utilize o site oficial do iClinic: https://app.iclinic.com.br
+Para se cadastrar no sistema utilize o seguinte padrão na criação do usuário: usuariogithub@iclinic.com.br
 
 ### O que esperamos
 - Utilizar gherkin para escrever os cenários de teste
